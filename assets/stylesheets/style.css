@@ -1,0 +1,19 @@
+html, body {margin: 0; padding: 0;}
+
+body {background: #efeee7; font-family: "Georgia", Times New Roman, Times, serif;}
+
+a {color: #d21034;}
+h2 {font-size: 24px;}
+p {line-height: 1.5em; margin: 0 10px}
+
+header {background: #333333;}
+
+header h1 {color: #efeee7; font-size: 28px; text-align: center; padding: 15px 0; margin: auto;}
+
+div.container {width: 1024px; margin: auto;}
+
+#main-bio, #contact-info, #bio-image {float: left;}
+
+#main-bio {width: 70%; }
+#bio-image {width: 200px; margin: 0 10px 10px 0;}
+#contact-info {width: 30%;}
